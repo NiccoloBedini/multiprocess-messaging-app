@@ -1,0 +1,14 @@
+FILE di prova formato .txt
+Serve per testare il funzionamento della funzione share.
+-----------------------------------------------------------
+i file da usare (questo compreso) devono trovarsi nella directory principale (questa)
+dopo l'invio del file, la copia inviata si troverà nel percorso /GENERAL/nomeutente/prova1.txt
+se la cartella nomeutente non è stata creata,
+la copia del file si troverà nella directory GENERAL: /GENERAL/nomeutente->prova1.txt 
+
+Di DEFAULT sono state create 3 cartelle in GENERAL: user1 user2 user3
+--------------------------------------------------------------
+Di DEFAULT sono state create anche le rubriche in /RUBRICA per user1 user2 user3
+
+Gli utenti user1 user2 user3 tuttavia non sono stati aggiunti nel file GENERAL/utenti.txt ma
+dovranno essere aggiunti attraverso l'applicazione tramite la SIGNUP con lo scopo di testarla.
